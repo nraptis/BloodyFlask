@@ -54,6 +54,10 @@ body {
   background: var(--midnight);
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
   color: var(--cloud);
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -569,7 +573,7 @@ textarea {
 }
 
 .disclaimer-card {
-  display: block;
+  display: block; /* each on new line */
 }
 
 .disclaimer {
@@ -724,6 +728,7 @@ textarea {
   }
 }
 
+/* Target elements inside .card that are direct children (>) */
 .card > * + * {
   margin-top: 6px;
 }
