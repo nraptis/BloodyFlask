@@ -25,7 +25,7 @@ The app is deployed on AWS using:
 
 The EC2 layer can scale up by changing Elastic Beanstalk capacity settings (instance count and size) as traffic grows.
 
-![](https://raw.githubusercontent.com/nraptis/BloodyBloodyBloodBook/refs/heads/main/images_dupe/bicubic_220_flip_v.png)
+![](https://raw.githubusercontent.com/nraptis/BloodyFlask/refs/heads/main/you_might_be_super_sick.jpg)
 
 ## Docker / Kubernetes Next Steps
 
